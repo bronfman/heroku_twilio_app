@@ -5,3 +5,22 @@ To deploy to Heroku:
 1. Clone the app
 2. heroku create
 3. git push heroku master
+
+
+*****
+notes 
+*****
+
+-A-
+The 'signup' link for heroku from the public heroku-twilio webpage is no longer valid:
+
+this is the link in question--> http://www.heroku.com/signup/twillio  via  http://twilio.heroku.com/  
+
+however, the issue is a non-issue: heroku signup is available, quick, and easy. not having that direct link should not affect twilio implimentation. i had concern that this could lose some form of automated setup — it doesn't.
+
+-B-
+i have not been able to hear the audio in the video "How to create a Twilio app in Ruby with Sinatra and deploy it to Heroku in 5 minutes" (while using chrome 16) @ http://twilio.heroku.com/
+
+this is a direct uri that yields video with audio--> http://av.vimeo.com/10970/299/4108930.mp4?token=1325801800_2fb11997091592359726f85ce7e33c29
+
+(sory vimeo if that's not cool - you're a great service - i just want to learn about twilio and need the sound)
