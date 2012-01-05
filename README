@@ -22,5 +22,6 @@ however, the issue is a non-issue: heroku signup is available, quick, and easy. 
 i have not been able to hear the audio in the video "How to create a Twilio app in Ruby with Sinatra and deploy it to Heroku in 5 minutes" (while using chrome 16) @ http://twilio.heroku.com/
 
 this is a direct uri that yields video with audio--> http://av.vimeo.com/10970/299/4108930.mp4?token=1325801800_2fb11997091592359726f85ce7e33c29
-
+hm... that didn't work (shouldn't have stopped it). this one is working now, maybe the token kills it?
+http://av.vimeo.com/10970/299/4108930.mp4?token=1325803354_81d54b9a996457a7f09a5dd0e876dd73
 (sory vimeo if that's not cool - you're a great service - i just want to learn about twilio and need the sound)
